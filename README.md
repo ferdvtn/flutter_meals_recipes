@@ -1,3 +1,3 @@
-# flutter_personal_expenses
+# flutter_meals_recipes
 
 Meals Recipes app built with Flutter
